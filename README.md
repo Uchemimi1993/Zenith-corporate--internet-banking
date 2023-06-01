@@ -7,3 +7,10 @@
 -date: 2nd June 2023
 ![](./img/laptopview-top.png)
 ![](./img/laptopview-bottom.png)
+
+**completed UI (optimized for < 786px)**
+-date: 2nd June 2023
+![](./img/mobileview-1.png)
+![](./img/mobileview-2.png)
+![](./img/mobileview-3.png)
+![](./img/mobileview-4.png)
